@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\5_Invitation\5_Invitation\bin\Debug\5_Invitation.exe.config
+C:\Users\drtt\Desktop\C-Sharp\5_Invitation\5_Invitation\bin\Debug\5_Invitation.exe
+C:\Users\drtt\Desktop\C-Sharp\5_Invitation\5_Invitation\bin\Debug\5_Invitation.pdb
+C:\Users\drtt\Desktop\C-Sharp\5_Invitation\5_Invitation\obj\Debug\5_Invitation.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\5_Invitation\5_Invitation\obj\Debug\5_Invitation.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\5_Invitation\5_Invitation\obj\Debug\5_Invitation.exe
+C:\Users\drtt\Desktop\C-Sharp\5_Invitation\5_Invitation\obj\Debug\5_Invitation.pdb
