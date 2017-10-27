@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\6_ColorHelp\6_ColorHelp\bin\Debug\6_ColorHelp.exe.config
+C:\Users\drtt\Desktop\C-Sharp\6_ColorHelp\6_ColorHelp\bin\Debug\6_ColorHelp.exe
+C:\Users\drtt\Desktop\C-Sharp\6_ColorHelp\6_ColorHelp\bin\Debug\6_ColorHelp.pdb
+C:\Users\drtt\Desktop\C-Sharp\6_ColorHelp\6_ColorHelp\obj\Debug\6_ColorHelp.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\6_ColorHelp\6_ColorHelp\obj\Debug\6_ColorHelp.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\6_ColorHelp\6_ColorHelp\obj\Debug\6_ColorHelp.exe
+C:\Users\drtt\Desktop\C-Sharp\6_ColorHelp\6_ColorHelp\obj\Debug\6_ColorHelp.pdb
