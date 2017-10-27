@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\MiddleOfScreen\MiddleOfScreen\obj\Debug\MiddleOfScreen.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\MiddleOfScreen\MiddleOfScreen\obj\Debug\MiddleOfScreen.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\MiddleOfScreen\MiddleOfScreen\bin\Debug\MiddleOfScreen.exe.config
+C:\Users\drtt\Desktop\C-Sharp\MiddleOfScreen\MiddleOfScreen\bin\Debug\MiddleOfScreen.exe
+C:\Users\drtt\Desktop\C-Sharp\MiddleOfScreen\MiddleOfScreen\bin\Debug\MiddleOfScreen.pdb
+C:\Users\drtt\Desktop\C-Sharp\MiddleOfScreen\MiddleOfScreen\obj\Debug\MiddleOfScreen.exe
+C:\Users\drtt\Desktop\C-Sharp\MiddleOfScreen\MiddleOfScreen\obj\Debug\MiddleOfScreen.pdb

@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\MyName\MyName\bin\Debug\MyName.exe.config
+C:\Users\drtt\Desktop\C-Sharp\MyName\MyName\bin\Debug\MyName.exe
+C:\Users\drtt\Desktop\C-Sharp\MyName\MyName\bin\Debug\MyName.pdb
+C:\Users\drtt\Desktop\C-Sharp\MyName\MyName\obj\Debug\MyName.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\MyName\MyName\obj\Debug\MyName.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\MyName\MyName\obj\Debug\MyName.exe
+C:\Users\drtt\Desktop\C-Sharp\MyName\MyName\obj\Debug\MyName.pdb

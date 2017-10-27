@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\4_FamilyTree\4_FamilyTree\bin\Debug\4_FamilyTree.exe.config
+C:\Users\drtt\Desktop\C-Sharp\4_FamilyTree\4_FamilyTree\bin\Debug\4_FamilyTree.exe
+C:\Users\drtt\Desktop\C-Sharp\4_FamilyTree\4_FamilyTree\bin\Debug\4_FamilyTree.pdb
+C:\Users\drtt\Desktop\C-Sharp\4_FamilyTree\4_FamilyTree\obj\Debug\4_FamilyTree.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\4_FamilyTree\4_FamilyTree\obj\Debug\4_FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\4_FamilyTree\4_FamilyTree\obj\Debug\4_FamilyTree.exe
+C:\Users\drtt\Desktop\C-Sharp\4_FamilyTree\4_FamilyTree\obj\Debug\4_FamilyTree.pdb
