@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\8_Smiley\8_Smiley\bin\Debug\8_Smiley.exe.config
+C:\Users\drtt\Desktop\C-Sharp\8_Smiley\8_Smiley\bin\Debug\8_Smiley.exe
+C:\Users\drtt\Desktop\C-Sharp\8_Smiley\8_Smiley\bin\Debug\8_Smiley.pdb
+C:\Users\drtt\Desktop\C-Sharp\8_Smiley\8_Smiley\obj\Debug\8_Smiley.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\8_Smiley\8_Smiley\obj\Debug\8_Smiley.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\8_Smiley\8_Smiley\obj\Debug\8_Smiley.exe
+C:\Users\drtt\Desktop\C-Sharp\8_Smiley\8_Smiley\obj\Debug\8_Smiley.pdb

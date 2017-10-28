@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\7_ScreenFrame\7_ScreenFrame\bin\Debug\7_ScreenFrame.exe.config
+C:\Users\drtt\Desktop\C-Sharp\7_ScreenFrame\7_ScreenFrame\bin\Debug\7_ScreenFrame.exe
+C:\Users\drtt\Desktop\C-Sharp\7_ScreenFrame\7_ScreenFrame\bin\Debug\7_ScreenFrame.pdb
+C:\Users\drtt\Desktop\C-Sharp\7_ScreenFrame\7_ScreenFrame\obj\Debug\7_ScreenFrame.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\7_ScreenFrame\7_ScreenFrame\obj\Debug\7_ScreenFrame.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\7_ScreenFrame\7_ScreenFrame\obj\Debug\7_ScreenFrame.exe
+C:\Users\drtt\Desktop\C-Sharp\7_ScreenFrame\7_ScreenFrame\obj\Debug\7_ScreenFrame.pdb
