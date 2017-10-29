@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\12_Variables\12_Variables\bin\Debug\12_Variables.exe.config
+C:\Users\drtt\Desktop\C-Sharp\12_Variables\12_Variables\bin\Debug\12_Variables.exe
+C:\Users\drtt\Desktop\C-Sharp\12_Variables\12_Variables\bin\Debug\12_Variables.pdb
+C:\Users\drtt\Desktop\C-Sharp\12_Variables\12_Variables\obj\Debug\12_Variables.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\12_Variables\12_Variables\obj\Debug\12_Variables.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\12_Variables\12_Variables\obj\Debug\12_Variables.exe
+C:\Users\drtt\Desktop\C-Sharp\12_Variables\12_Variables\obj\Debug\12_Variables.pdb
