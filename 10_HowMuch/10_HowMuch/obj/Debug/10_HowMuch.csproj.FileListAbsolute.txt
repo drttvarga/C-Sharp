@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\10_HowMuch\10_HowMuch\bin\Debug\10_HowMuch.exe.config
+C:\Users\drtt\Desktop\C-Sharp\10_HowMuch\10_HowMuch\bin\Debug\10_HowMuch.exe
+C:\Users\drtt\Desktop\C-Sharp\10_HowMuch\10_HowMuch\bin\Debug\10_HowMuch.pdb
+C:\Users\drtt\Desktop\C-Sharp\10_HowMuch\10_HowMuch\obj\Debug\10_HowMuch.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\10_HowMuch\10_HowMuch\obj\Debug\10_HowMuch.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\10_HowMuch\10_HowMuch\obj\Debug\10_HowMuch.exe
+C:\Users\drtt\Desktop\C-Sharp\10_HowMuch\10_HowMuch\obj\Debug\10_HowMuch.pdb
