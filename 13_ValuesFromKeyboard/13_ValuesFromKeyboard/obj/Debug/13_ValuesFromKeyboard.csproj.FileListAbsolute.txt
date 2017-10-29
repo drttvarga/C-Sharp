@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\13_ValuesFromKeyboard\13_ValuesFromKeyboard\bin\Debug\13_ValuesFromKeyboard.exe.config
+C:\Users\drtt\Desktop\C-Sharp\13_ValuesFromKeyboard\13_ValuesFromKeyboard\bin\Debug\13_ValuesFromKeyboard.exe
+C:\Users\drtt\Desktop\C-Sharp\13_ValuesFromKeyboard\13_ValuesFromKeyboard\bin\Debug\13_ValuesFromKeyboard.pdb
+C:\Users\drtt\Desktop\C-Sharp\13_ValuesFromKeyboard\13_ValuesFromKeyboard\obj\Debug\13_ValuesFromKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\13_ValuesFromKeyboard\13_ValuesFromKeyboard\obj\Debug\13_ValuesFromKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\13_ValuesFromKeyboard\13_ValuesFromKeyboard\obj\Debug\13_ValuesFromKeyboard.exe
+C:\Users\drtt\Desktop\C-Sharp\13_ValuesFromKeyboard\13_ValuesFromKeyboard\obj\Debug\13_ValuesFromKeyboard.pdb
