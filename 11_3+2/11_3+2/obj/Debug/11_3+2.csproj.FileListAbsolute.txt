@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\11_3+2\11_3+2\bin\Debug\11_3+2.exe.config
+C:\Users\drtt\Desktop\C-Sharp\11_3+2\11_3+2\bin\Debug\11_3+2.exe
+C:\Users\drtt\Desktop\C-Sharp\11_3+2\11_3+2\bin\Debug\11_3+2.pdb
+C:\Users\drtt\Desktop\C-Sharp\11_3+2\11_3+2\obj\Debug\11_3+2.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\11_3+2\11_3+2\obj\Debug\11_3+2.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\11_3+2\11_3+2\obj\Debug\11_3+2.exe
+C:\Users\drtt\Desktop\C-Sharp\11_3+2\11_3+2\obj\Debug\11_3+2.pdb
