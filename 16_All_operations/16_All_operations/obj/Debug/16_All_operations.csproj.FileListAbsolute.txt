@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\16_All_operations\16_All_operations\bin\Debug\16_All_operations.exe.config
+C:\Users\drtt\Desktop\C-Sharp\16_All_operations\16_All_operations\bin\Debug\16_All_operations.exe
+C:\Users\drtt\Desktop\C-Sharp\16_All_operations\16_All_operations\bin\Debug\16_All_operations.pdb
+C:\Users\drtt\Desktop\C-Sharp\16_All_operations\16_All_operations\obj\Debug\16_All_operations.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\16_All_operations\16_All_operations\obj\Debug\16_All_operations.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\16_All_operations\16_All_operations\obj\Debug\16_All_operations.exe
+C:\Users\drtt\Desktop\C-Sharp\16_All_operations\16_All_operations\obj\Debug\16_All_operations.pdb
