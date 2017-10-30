@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\14_Digit_request_v1\14_Digit_request_v1\bin\Debug\14_Digit_request_v1.exe.config
+C:\Users\drtt\Desktop\C-Sharp\14_Digit_request_v1\14_Digit_request_v1\bin\Debug\14_Digit_request_v1.exe
+C:\Users\drtt\Desktop\C-Sharp\14_Digit_request_v1\14_Digit_request_v1\bin\Debug\14_Digit_request_v1.pdb
+C:\Users\drtt\Desktop\C-Sharp\14_Digit_request_v1\14_Digit_request_v1\obj\Debug\14_Digit_request_v1.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\14_Digit_request_v1\14_Digit_request_v1\obj\Debug\14_Digit_request_v1.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\14_Digit_request_v1\14_Digit_request_v1\obj\Debug\14_Digit_request_v1.exe
+C:\Users\drtt\Desktop\C-Sharp\14_Digit_request_v1\14_Digit_request_v1\obj\Debug\14_Digit_request_v1.pdb
