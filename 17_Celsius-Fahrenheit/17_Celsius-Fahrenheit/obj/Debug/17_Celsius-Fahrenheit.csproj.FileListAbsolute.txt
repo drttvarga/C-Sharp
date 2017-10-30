@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\17_Celsius-Fahrenheit\17_Celsius-Fahrenheit\obj\Debug\17_Celsius-Fahrenheit.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\17_Celsius-Fahrenheit\17_Celsius-Fahrenheit\obj\Debug\17_Celsius-Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\17_Celsius-Fahrenheit\17_Celsius-Fahrenheit\bin\Debug\17_Celsius-Fahrenheit.exe.config
+C:\Users\drtt\Desktop\C-Sharp\17_Celsius-Fahrenheit\17_Celsius-Fahrenheit\bin\Debug\17_Celsius-Fahrenheit.exe
+C:\Users\drtt\Desktop\C-Sharp\17_Celsius-Fahrenheit\17_Celsius-Fahrenheit\bin\Debug\17_Celsius-Fahrenheit.pdb
+C:\Users\drtt\Desktop\C-Sharp\17_Celsius-Fahrenheit\17_Celsius-Fahrenheit\obj\Debug\17_Celsius-Fahrenheit.exe
+C:\Users\drtt\Desktop\C-Sharp\17_Celsius-Fahrenheit\17_Celsius-Fahrenheit\obj\Debug\17_Celsius-Fahrenheit.pdb
