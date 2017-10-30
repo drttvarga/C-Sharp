@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\18_Test_result\18_Test_result\bin\Debug\18_Test_result.exe.config
+C:\Users\drtt\Desktop\C-Sharp\18_Test_result\18_Test_result\bin\Debug\18_Test_result.exe
+C:\Users\drtt\Desktop\C-Sharp\18_Test_result\18_Test_result\bin\Debug\18_Test_result.pdb
+C:\Users\drtt\Desktop\C-Sharp\18_Test_result\18_Test_result\obj\Debug\18_Test_result.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\18_Test_result\18_Test_result\obj\Debug\18_Test_result.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\18_Test_result\18_Test_result\obj\Debug\18_Test_result.exe
+C:\Users\drtt\Desktop\C-Sharp\18_Test_result\18_Test_result\obj\Debug\18_Test_result.pdb
