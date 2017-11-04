@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\Multiplication_table\Multiplication_table\bin\Debug\Multiplication_table.exe.config
+C:\Users\drtt\Desktop\C-Sharp\Multiplication_table\Multiplication_table\bin\Debug\Multiplication_table.exe
+C:\Users\drtt\Desktop\C-Sharp\Multiplication_table\Multiplication_table\bin\Debug\Multiplication_table.pdb
+C:\Users\drtt\Desktop\C-Sharp\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.exe
+C:\Users\drtt\Desktop\C-Sharp\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.pdb
