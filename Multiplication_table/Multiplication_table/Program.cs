@@ -101,10 +101,7 @@ namespace Multiplication_table
             Console.WriteLine("|");
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("+--------------------------------------+");
-
             Console.ReadKey();
-            
-           
         }
     }
 }
