@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\Vertical_bands\Vertical_bands\bin\Debug\Vertical_bands.exe.config
+C:\Users\drtt\Desktop\C-Sharp\Vertical_bands\Vertical_bands\bin\Debug\Vertical_bands.exe
+C:\Users\drtt\Desktop\C-Sharp\Vertical_bands\Vertical_bands\bin\Debug\Vertical_bands.pdb
+C:\Users\drtt\Desktop\C-Sharp\Vertical_bands\Vertical_bands\obj\Debug\Vertical_bands.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\Vertical_bands\Vertical_bands\obj\Debug\Vertical_bands.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\Vertical_bands\Vertical_bands\obj\Debug\Vertical_bands.exe
+C:\Users\drtt\Desktop\C-Sharp\Vertical_bands\Vertical_bands\obj\Debug\Vertical_bands.pdb
