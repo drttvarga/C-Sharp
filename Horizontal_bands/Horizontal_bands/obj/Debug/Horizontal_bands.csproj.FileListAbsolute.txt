@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\Horizontal_bands\Horizontal_bands\bin\Debug\Horizontal_bands.exe.config
+C:\Users\drtt\Desktop\C-Sharp\Horizontal_bands\Horizontal_bands\bin\Debug\Horizontal_bands.exe
+C:\Users\drtt\Desktop\C-Sharp\Horizontal_bands\Horizontal_bands\bin\Debug\Horizontal_bands.pdb
+C:\Users\drtt\Desktop\C-Sharp\Horizontal_bands\Horizontal_bands\obj\Debug\Horizontal_bands.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\Horizontal_bands\Horizontal_bands\obj\Debug\Horizontal_bands.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\Horizontal_bands\Horizontal_bands\obj\Debug\Horizontal_bands.exe
+C:\Users\drtt\Desktop\C-Sharp\Horizontal_bands\Horizontal_bands\obj\Debug\Horizontal_bands.pdb
