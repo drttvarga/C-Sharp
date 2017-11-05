@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\Circumference-Area\Circumference-Area\bin\Debug\Circumference-Area.exe.config
+C:\Users\drtt\Desktop\C-Sharp\Circumference-Area\Circumference-Area\bin\Debug\Circumference-Area.exe
+C:\Users\drtt\Desktop\C-Sharp\Circumference-Area\Circumference-Area\bin\Debug\Circumference-Area.pdb
+C:\Users\drtt\Desktop\C-Sharp\Circumference-Area\Circumference-Area\obj\Debug\Circumference-Area.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\Circumference-Area\Circumference-Area\obj\Debug\Circumference-Area.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\Circumference-Area\Circumference-Area\obj\Debug\Circumference-Area.exe
+C:\Users\drtt\Desktop\C-Sharp\Circumference-Area\Circumference-Area\obj\Debug\Circumference-Area.pdb
