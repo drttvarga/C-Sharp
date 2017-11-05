@@ -1,0 +1,7 @@
+C:\Users\drtt\Desktop\C-Sharp\Business_card\Business_card\bin\Debug\Business_card.exe.config
+C:\Users\drtt\Desktop\C-Sharp\Business_card\Business_card\bin\Debug\Business_card.exe
+C:\Users\drtt\Desktop\C-Sharp\Business_card\Business_card\bin\Debug\Business_card.pdb
+C:\Users\drtt\Desktop\C-Sharp\Business_card\Business_card\obj\Debug\Business_card.csprojResolveAssemblyReference.cache
+C:\Users\drtt\Desktop\C-Sharp\Business_card\Business_card\obj\Debug\Business_card.csproj.CoreCompileInputs.cache
+C:\Users\drtt\Desktop\C-Sharp\Business_card\Business_card\obj\Debug\Business_card.exe
+C:\Users\drtt\Desktop\C-Sharp\Business_card\Business_card\obj\Debug\Business_card.pdb
